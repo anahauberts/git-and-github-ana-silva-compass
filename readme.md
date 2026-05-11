@@ -1,7 +1,7 @@
 # Treinamento Git e GitHub
 
 ## Sobre mim
-Oie! Meu nome é Ana e estou fazendo o curso disponibilizado pelos QAs da Natura para nos aprofundarmos em automação de testes. Espero gostar mais de automação agora do que da última vez que estudei. ^^
+Oie! Meu nome é Ana e estou fazendo o curso disponibilizado pelos QAs da Natura para nos aprofundarmos em automação de testes. Espero gostar mais de automação agora do que da última vez que estudei. Aproveitei esse treinamento para fazer mais anotações de comandos que não eram solicitados na atividade apenas para deixar salvo. ^^
 ---
 
 # Dicionário Git do QA
