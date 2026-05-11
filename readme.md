@@ -8,7 +8,7 @@ Oie! Meu nome é Ana e estou fazendo o curso disponibilizado pelos QAs da Natura
 
 | Comando | Significado |
 |--------|-------------|
-| git init | inicializa um repositório git vazio. após usar esse comando é possível usar os demais comandos;
+| git init | inicializa um repositório git. após usar esse comando é possível usar os demais comandos;
 | git add + nome do arquivo | manda o arquivo específico para staging;
 | git add . | manda todos os arquivos para staging;
 | git status | mostra o estado atual do repositório, por exemplo mostra as mudanças a serem commitadas;
