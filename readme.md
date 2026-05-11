@@ -6,7 +6,7 @@ Oie! Meu nome é Ana e estou fazendo o curso disponibilizado pelos QAs da Natura
 
 # Dicionário Git do QA
 
-| Termo | Significado |
+| Comando | Significado |
 |--------|-------------|
 | git init | inicializa um repositório git vazio. após usar esse comando é possível usar os demais comandos;
 | git add + nome do arquivo | manda o arquivo específico para staging;
