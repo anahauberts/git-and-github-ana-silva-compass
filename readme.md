@@ -20,7 +20,7 @@ Oie! Meu nome é Ana e estou fazendo o curso disponibilizado pelos QAs da Natura
 | git checkout -b "nome-da-nova-branch" | comando pra criar nova branch, com checkout já muda direto pra essa nova branch;
 | git checkout main | muda para a branch principal;
 | git merge "nome-da-branch" | para juntar a branch. vai pegar tudo que foi feito na branch "nome-da-branch" e trazer para a branch que vai receber as alterações;
-| git pull | serve pra puxar os arquivos do repositório remoto para o local;
+| git pull | serve pra puxar os arquivos do repositório remoto para o local teste;
 
 # Comandos Favoritos
 
